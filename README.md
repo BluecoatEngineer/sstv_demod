@@ -1,7 +1,10 @@
 --------------------------------
 Slow Scan Television Demodulator
+
 Author: Jack Bradach
+
         jack@bradach.net
+        
         github.com/jbradach
 --------------------------------
 
